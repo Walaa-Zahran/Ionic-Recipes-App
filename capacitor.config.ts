@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.udemycourse.ionicangular',
   appName: 'ionic-angular-course',
   webDir: 'www',
   server: {
